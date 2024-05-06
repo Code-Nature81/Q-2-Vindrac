@@ -3,12 +3,12 @@ let questions = [
     {
     numb: 2,
     question: "Que franchissait-il ?",
-    answer: "3) à une voie ferrée abandonnée depuis fort longtemps",
+    answer: "3) Une voie ferrée abandonnée depuis fort longtemps",
     options: [
-      "1) un ruisseau aujourd’hui détourné",
-      "2) un canal d’irrigation aujourd'hui inutile",
-      "3) à une voie ferrée abandonnée depuis fort longtemps",
-      "4) un chemin de terre qui permettait de rejoindre Cordes sur Ciel"
+      "1) Un ruisseau aujourd’hui détourné",
+      "2) Un canal d’irrigation aujourd'hui inutile",
+      "3) Une voie ferrée abandonnée depuis fort longtemps",
+      "4) Un chemin de terre qui permettait de rejoindre Cordes sur Ciel"
     ]
   },
    
